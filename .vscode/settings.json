@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Mr. Cocktail\\Downloads\\2025J\\Java\\rt.jar",
+        "c:\\Users\\Mr. Cocktail\\Downloads\\2025J\\Java\\rs2xml.jar",
+        "c:\\Users\\Mr. Cocktail\\Downloads\\2025J\\Java\\mysql-connector-j-9.3.0.jar",
+        "c:\\Users\\Mr. Cocktail\\Downloads\\2025J\\Java\\jcalendar-1.4.jar"
+    ]
+}
