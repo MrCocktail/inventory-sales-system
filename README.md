@@ -43,12 +43,17 @@ A desktop application for managing parts inventory, employees, and daily sales r
 
 ## 📸 Screenshots
 
-| Parts Module | Sales Report | Employee Management |
-|--------------|--------------|---------------------|
+### 🧩 Home / Dashboard
 ![Homepage](src/assets/homepage.png)
-![Inventory Module](src/assets/inventory.png.png)
-![Employees Moodule](src/assets/employees.png.png)
-![Sales Module](src/assets/sales.png.png)
+
+### 👥 Employees Module
+![Employees Module](src/assets/employees.png)
+
+### 💰 Sales Module
+![Sales Module](src/assets/sales.png)
+
+### 📦 Inventory Module
+![Inventory Module](src/assets/inventory.png)
 
 ---
 
